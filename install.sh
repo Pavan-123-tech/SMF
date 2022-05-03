@@ -46,8 +46,7 @@ bash about.sh
 sleep 4
 echo ""
 echo ""
-echo " SUBSCRIBE MY CHANNEL 🔔 " | lolcat
-xdg-open https://www.youtube.com/channel/HYDRAGAMING4U
+
 echo ""
 sleep 10
 echo " create account on cashkaro.com "
