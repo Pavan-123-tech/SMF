@@ -29,7 +29,7 @@
 
 
 ## Find Me on :
-[![Github](https://img.shields.io/badge/Github-TECH--COCHI-green?style=for-the-badge&logo=github)](https://github.com/Pavan-123-tech)
+[![Github](https://github.com/Pavan-123-tech/)]
 
 [!Instagram](https://www.instagram.com/mr.pawanraut_99/)]
 
