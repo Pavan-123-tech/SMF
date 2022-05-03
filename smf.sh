@@ -1,8 +1,6 @@
 #!/bin/bash
-#code recorded by tech cochi
-#https://youtube.com/c/techcochi
-#https://github.com/rixon-cochi
-#https://techcochi.blogspot.com
+#code recorded by PAVAN-123-TECH
+
 
 trap 'printf "\n";stop;exit 1' 2
 deps() {
