@@ -12,7 +12,7 @@
 * `apt update`
 * `apt upgrade`
 * `pkg install git`
-* `git clone https://github.com/rixon-cochi/SMF.git`
+* `git clone https://github.com/Pavan-123-tech/SMF.git`
 * `cd SMF`
 * `bash install.sh`
 * `bash smf.sh`
